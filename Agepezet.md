@@ -6,4 +6,4 @@ Yiggrazil fel ébred.
 
 ## Magic
 Arch mage generate Bearmaster Artifical Architype
-SS
+
