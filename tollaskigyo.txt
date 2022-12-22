@@ -1,0 +1,19 @@
+
+83de244 (HEAD -> coatl) Coatl card and  or board
+d2af980 HEAd és Master helyzete
+775be71 coopera.css hozza adasa
+17210d5 Coatl html oldalak tesztelese
+f51b64c (tag: mentes, Tollaskigyo) coatlboardgame.xml
+773799c coatlcardgame.html
+c53cfcf coatlboardgame.html
+32429ce coatlcardgame.xml
+6d9f0f0 coatl card game
+8760388 (tag: Aldozas, master) molnarzoltan stash
+248aa8e hianyzok hozza adasa
+d8022a5 merge elokeszetes
+5708ca5 (tag: rebase) Elso Rebase 1/4
+ec1f7b1 Ragadozo
+52019f6 (ismetgyar) hianyzok hozza adasa
+d2dad05 merge elokeszetes
+dd3d346 (bogarirtas) Szintezis-master
+c22b6db molnarzoltan-main-master
