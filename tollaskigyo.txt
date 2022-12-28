@@ -17,3 +17,5 @@ ec1f7b1 Ragadozo
 d2dad05 merge elokeszetes
 dd3d346 (bogarirtas) Szintezis-master
 c22b6db molnarzoltan-main-master
+
+elteres
